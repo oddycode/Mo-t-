@@ -23,10 +23,8 @@
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<array>
-					<string>Uncver</string>
-					<string>Admin có muốn cài không!?</string>
-					</array>
+					<string>Uncver
+						Admin có muốn cài không!?</string>
 				</dict>
 			</dict>
 		</array>
